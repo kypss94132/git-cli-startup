@@ -37,3 +37,7 @@ hello()
 ```
 ---
 ![](./IMD.jpg)
+
+[Go to h1](#header1)
+
+[Go to page a](./a.md)
