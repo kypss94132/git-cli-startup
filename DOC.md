@@ -20,3 +20,20 @@ hello ~~markdown~~ 刪除線
 
 ---
 hello `markdown`
+
+```
+多層區塊
+多層區塊
+多層區塊
+多層區塊
+多層區塊
+```
+
+```python
+def hello();
+    print('this is hello')
+hello()
+
+```
+---
+![](./IMD.jpg)
